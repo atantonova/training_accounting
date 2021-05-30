@@ -1,0 +1,36 @@
+.container {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-family: sans-serif;
+  background-color: #323757;
+  padding: 20px 0;
+}
+
+.alert.alert-danger {
+  color: #e0607f;
+}
+
+.btn.btn-primary.btn-block {
+  font-size: larger;
+  color: #636781;
+  background-color: #f6f7fc;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  cursor: pointer;
+}
+
+.title {
+  margin: 0 auto;
+  color: #f6f7fc;
+  font-size: larger;
+  padding: 5px 10px;
+  width: 50%;
+  text-align: center;
+}

@@ -1,0 +1,88 @@
+.error {
+  color: #e0607f;
+  font-size: 16px;
+  margin: 0 40px;
+}
+
+.submitButton {
+  background-color: #636781;
+  color: #f6f7fc;
+  height: 40px;
+  margin: 20px 50px;
+  cursor: pointer;
+}
+
+.inputField {
+  margin: 0 30px;
+  width: 100px;
+  padding: 10px;
+  color: black;
+  display: flex;
+  align-content: center;
+}
+
+.inputFieldBig {
+  margin: 0 30px;
+  width: 90%;
+  padding: 10px;
+  color: black;
+  display: flex;
+}
+
+.container {
+  margin: 100px auto;
+  width: 70%;
+  font-family: sans-serif;
+  background-color: white;
+  padding: 20px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+input {
+  height: 30px;
+  width: 300px;
+  border-radius: 5px;
+  border-color: #636781;
+  background-color: #f6f7fc;
+  color: black;
+  margin: 0 20px;
+  font-size: 18px;
+  border-width: 0.5px;
+}
+
+textarea {
+  height: 100px;
+  width: 300px;
+  border-radius: 5px;
+  border-color: #636781;
+  background-color: #f6f7fc;
+  color: black;
+  margin: 0 20px;
+  font-size: 18px;
+  border-width: 0.5px;
+  font-family: "Verdana", "Geneva", sans-serif;
+}
+
+select {
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+  border-color: #636781;
+  border-width: 0.5px;
+  background-color: #f6f7fc;
+  color: black;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+
+label {
+  font-size: 20px;
+}
+
+h1 {
+  margin: 20px auto;
+  width: 55%;
+  font-size: 30px;
+  color: #323757;
+}

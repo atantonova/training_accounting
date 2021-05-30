@@ -1,0 +1,73 @@
+th {
+  border: 1px solid black;
+  padding: 5px 10px;
+  width: auto;
+  height: auto;
+  min-height: 20px;
+  min-width: 20px;
+  resize: horizontal;
+  overflow: auto;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px 10px;
+  width: auto;
+  height: auto;
+  min-height: 20px;
+  min-width: 20px;
+  resize: both;
+  overflow: auto;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 90%;
+  font-size: 14px;
+  color: black;
+  border-collapse: collapse;
+  border: 1px solid black;
+  border-spacing: 10px;
+}
+
+.tableHeader {
+  background-color: #dedfe8;
+  font-weight: bold;
+  text-align: left;
+  border: 1px solid black;
+  border-spacing: 10px;
+}
+
+.tableBody {
+  background-color: white;
+
+  border-collapse: collapse;
+  border: 1px solid black;
+  border-spacing: 10px;
+}
+
+.buttonDelete {
+  color: #e0607f;
+  background-color: #f6e3e8;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+h2 {
+  margin: 10px 70px;
+  color: #323757;
+}
+
+h3 {
+  margin: 10px 70px;
+  color: #323757;
+}
+
+.inputEdit {
+  font-size: 14px;
+  width: auto;
+}

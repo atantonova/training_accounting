@@ -1,0 +1,25 @@
+.nav-link {
+  font-size: 20px;
+  width: 200px;
+  color: #636781;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.nav-link-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.reportButton {
+  background-color: #323757;
+  color: white;
+  border: 1px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  font-size: 18px;
+  margin: 50px 70px;
+  padding: 10px;
+  cursor: pointer;
+}

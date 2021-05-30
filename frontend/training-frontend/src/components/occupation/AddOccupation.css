@@ -1,0 +1,12 @@
+
+.selectMulti {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    border-color: #636781;
+    border-width: 0.5px;
+    background-color: #f6f7fc;
+    color: black;
+    margin: 0 20px;
+    font-size: 18px;
+  }
