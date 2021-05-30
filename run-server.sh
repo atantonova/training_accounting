@@ -1,0 +1,1 @@
+java -jar backend/training_accounting/target/training_accounting-0.0.1-SNAPSHOT.jar
